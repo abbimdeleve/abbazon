@@ -1,0 +1,27 @@
+{
+  "name": "abbazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "seed": "node ./seeds/seeds-db.js",
+    "test1": "node ./seeds/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbimdeleve/abbazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abbimdeleve/abbazon/issues"
+  },
+  "homepage": "https://github.com/abbimdeleve/abbazon#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^1.6.5",
+    "sequelize": "^5.16.0"
+  }
+}

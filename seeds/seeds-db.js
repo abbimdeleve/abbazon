@@ -26,42 +26,42 @@ const items = [
     author_name: "Wilbur Smith",
     price: 11.99,
     stock_quantity: 25,
-    image: "../public/images/rivergod.jpg"
+    image: "./public/images/rivergod.jpg"
   },
   {
     book_name: "The Horse Goddess",
     author_name: "Morgan LLywelyn",
     price: 14.99,
     stock_quantity: 10,
-    image: "../public/images/horsegoddess.jpg"
+    image: "./public/images/horsegoddess.jpg"
   },
   {
     book_name: "The Beholder's Eye",
     author_name: "Julie Czerneda",
     price: 11.99,
     stock_quantity: 20,
-    image: "../public/images/beholderseye.jpg"
+    image: "./public/images/beholderseye.jpg"
   },
   {
     book_name: "Dune",
     author_name: "Frank Herbert",
     price: 18.99,
     stock_quantity: 20,
-    image: "../public/images/dune.jpg"
+    image: "./public/images/dune.jpg"
   },
   {
     book_name: "Eragon",
     author_name: "Christopher Paolini",
     price: 12.99,
     stock_quantity: 30,
-    image: "../public/images/eragon.jpg"
+    image: "./public/images/eragon.jpg"
   }, 
   {
     book_name: "Harry Potter Volumes 1-7",
     author_name: "J.K. Rowling",
     price: 52.99,
     stock_quantity: 40,
-    image: "../public/images/harrypotter.jpg"
+    image: "./public/images/harrypotter.jpg"
   }, 
   {
     book_name: "Scar Night",

@@ -4,4 +4,18 @@
 }
 .jumbotron {
     color: blanchedalmond;
+    background-blend-mode: color-burn;
+}
+.col {
+    border: 30px;
+    margin: 30px;
+    padding: 20px;
+}
+#buttonAdd {
+    border: 10px;
+    margin: 10px;
+}
+#buttonDel {
+    border: 10px;
+    margin: 10px;
 }
